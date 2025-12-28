@@ -42,9 +42,9 @@ Designed to help HR teams make **data-driven decisions** with clear, actionable 
 ---
 
 ## 📬 Contact
-**Deepjit Ganguly**  
-📧 [Email Me](deepjitganguly@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepjit-ganguly-273423243/)  
+**Shivam Jana**  
+📧 [Email Me](janashivam1393@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shivam-jana-09b225285/)  
 
 ---
 💡 *If you find this project useful, don’t forget to ⭐ star the repository!*
