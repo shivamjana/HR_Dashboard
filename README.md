@@ -15,14 +15,14 @@ Designed to help HR teams make **data-driven decisions** with clear, actionable 
 ---
 
 ## 📽️ Dashboard Demo
-![Dashboard Demo](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/HR%20management%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-06-24.mp4.gif)
+![Dashboard Demo](https://github.com/shivamjana/HR_Dashboard/blob/main/HR%20management%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-06-24.mp4.gif)
 
 ---
 
 ## 📸 Dashboard Previews
 | Human Resources | Research & Development | Sales |
 |----------|-----------|--------------|
-| ![Overview](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(66).png) | ![Attrition](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(67).png) | ![Demographics](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(68).png) |
+| ![Overview](https://github.com/shivamjana/HR_Dashboard/blob/main/Screenshot%20(66).png) | ![Attrition](https://github.com/shivamjana/HR_Dashboard/blob/main/Screenshot%20(67).png) | ![Demographics](https://github.com/shivamjana/HR_Dashboard/blob/main/Screenshot%20(68).png) |
 
 ---
 
